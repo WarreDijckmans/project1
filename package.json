@@ -1,0 +1,10 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Warre Dijckmans <dijckmanswarre1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.22.0"
+  }
+}
